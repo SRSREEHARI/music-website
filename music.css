@@ -1,0 +1,20 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.navbar {
+  background-color: #1b2039;
+}
+.but1 {
+  border-radius: 100px 75px;
+}
+.content {
+  width: 632px;
+  margin-top: 146px;
+}
+.section {
+  width: 6000px;
+}
+body {
+  background-color: #14182a;
+}
